@@ -1,3 +1,8 @@
-# piechart_app
+# Pie Chart App API
 
-a [Sails](http://sailsjs.org) application
+> This is a pie chart app api using Sails.
+
+
+## Running
+
+To run the app, npm start
